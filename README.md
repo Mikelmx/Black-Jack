@@ -12,4 +12,6 @@ Press space to end beting period or to HIT (get another card). Press TAB to STAY
 Requirements
 
 Python 3.x
+
+
 pygame
