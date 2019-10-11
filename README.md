@@ -1,11 +1,11 @@
 # Black-Jack
 
 
-A visual game of black jack! Made with pygame.
+A visual game of Black Jack! 
 
 Run the main.py script to get started.
 
-Game Controls
+Game Controls:
 
 Press space to end beting period or to HIT (get another card). Press TAB to STAY. Click on the chips on the left side of the screen to place a bet.
 
