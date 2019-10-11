@@ -14,4 +14,4 @@ Requirements
 
 Python 3.x
 
-pygame
+Pygame
